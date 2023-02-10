@@ -1,1 +1,1 @@
-script switches the current user betty
+script that prints the effective userame of the current user
