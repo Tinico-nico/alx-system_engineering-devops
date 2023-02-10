@@ -1,1 +1,1 @@
-script adds execute permission to the owner of the file
+script adds execute permission to the owner and the group owner
