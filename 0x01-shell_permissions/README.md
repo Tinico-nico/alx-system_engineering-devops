@@ -1,1 +1,1 @@
-script creates a directory 
+script change group owner to file 
